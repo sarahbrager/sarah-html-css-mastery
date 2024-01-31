@@ -1,4 +1,4 @@
-# Sarah's html mastery 
+# Sarah's html mastery
 
 By Sarah Brager, Intro Coding for Journalists class
 
