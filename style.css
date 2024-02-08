@@ -1,0 +1,96 @@
+html {
+    font-family: 'Times New Roman','Ubuntu', sans-serif;
+    font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    margin-bottom: 12px;
+}
+
+article {
+    max-width: 620px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+}
+
+figure {
+    max-width: 620px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Ubuntu', 'Times New Roman';
+    text-align: left;
+}
+
+h1 {
+    font-size: 3.6rem;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 2.6rem;
+    font-weight: lighter;
+    margin: 16px 0;
+}
+
+h3 {
+    font-size: 2rem;
+    margin: 25px 0 8px 0;
+}
+
+h4 {
+    font-size: 1.4rem;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+
+p {
+    text-align: left;
+}
+
+a {
+    color: blue;
+}
+
+#byline {
+    font-family: Arial, 'Times New Roman';
+    font-size: 1.6rem;
+    text-align: left;
+}
+
+#photo-credit {
+    font-family: Arial, 'Times New Roman';
+    font-size: 1.2rem;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+span {
+    font-style: italic;
+}
+
+blockquote {
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    text-align: left;
+    border-left: solid grey 4px;
+    padding-left: 20px;
+    margin-left: 30px;
+}
+
+ol {
+    text-align: left;
+    list-style-position: inside;
+}
+
+#comments-section {
+    background-color: #ccc;
+    padding: 12px;
+    max-width: 620px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+}
